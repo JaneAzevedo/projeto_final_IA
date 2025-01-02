@@ -22,6 +22,11 @@ O Projeto foi pensado para ser somente um Podcast com aúdio, porém, acabei faz
 
 ## ⚒️ Ferramenta para comprimir Podcast em vídeo para diminuir o tamanho
 - [Clideo](https://clideo.com/)
+
+## 🔚 Projetos podem ser consultados nos links abaixo:
+-  [Podcast Áudio](https://github.com/JaneAzevedo/projeto_final_IA/blob/main/Podcast%20Financeiramente%20Poderosa.7z)
+-  [Podcast em Vídeo](https://github.com/JaneAzevedo/projeto_final_IA/blob/main/podcast-financeiramente-poderosa-com-video.mp4)
+
   
 
   
