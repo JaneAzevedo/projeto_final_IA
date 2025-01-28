@@ -1,5 +1,5 @@
 # 🔷 Projeto_final_IA
-Criação de um Podcast em audio e vídeo com IA Generativas voltado para público de mulheres empreendedoras de baixa renda, ou seja, com uma linguagem simples e falando sobre finanças para esse público.
+Criação de um Podcast em audio e vídeo com IA Generativas voltado para público de mulheres empreendedoras de baixa renda, ou seja, com uma linguagem simples e falando sobre finanças para esse público, ensinando um pouco de Planejamento Financeiro de forma descomplicada.
 
 ## 🎨 Criação & Elaboração
 O Projeto foi pensado para ser somente um Podcast com aúdio, porém, acabei fazendo dois projetos onde utilizei ferramentas diferenetes para concluí-lo.
